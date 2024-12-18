@@ -14,7 +14,7 @@
 - Base Block은 GAT Block을 3번 거친 후 Eigen 풀링이 결합된 형태이다. Eigen Pooling는 입력 버텍스중 주변 노드 간의 관계를 고려하여 중요 노드만 남기는 풀링 계층의 역할을 수행한다. 모델은 총 3번의 Base Block을 거친 후 최종적으로 얻어낸 각 버텍스별 피쳐를 Classification block으로 넘긴다. 
 
 - Classification Block은 Global Mean Pooling을 수행 하여 각 버텍스의 순서에 상관없이 독립적으로 결과가 나오도록 각 피쳐별로 모든 버텍스에 대해 풀링을 진행한다. 일정한 2번의 Linear layer를 거쳐 최종적인 입력의 클래스를 식별한다.
-- 
+  
 ![image](https://github.com/user-attachments/assets/cfda2d9b-4a06-4e74-9ff5-75a81fe30a0f)
 
 # Demo

@@ -1,0 +1,12 @@
+{"time":"2024-09-16T17:03:30.630372614+09:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-09-16T17:03:30.630409934+09:00","level":"INFO","msg":"created symlink","path":"/data/chltmd666/repos/Laplacian2mesh/wandb/offline-run-20240916_170330-m1rxupy4/logs/debug-core.log"}
+{"time":"2024-09-16T17:03:30.631269425+09:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-09-16T17:03:30.631288165+09:00","level":"INFO","msg":"created symlink","path":"/data/chltmd666/repos/Laplacian2mesh/wandb/offline-run-20240916_170330-m1rxupy4/logs/debug-core.log"}
+{"time":"2024-09-16T17:03:30.637669362+09:00","level":"INFO","msg":"created new stream","id":"m1rxupy4"}
+{"time":"2024-09-16T17:03:30.637715042+09:00","level":"INFO","msg":"stream: started","id":"m1rxupy4"}
+{"time":"2024-09-16T17:03:30.637733522+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"m1rxupy4"}}
+{"time":"2024-09-16T17:03:30.637746132+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"m1rxupy4"}}
+{"time":"2024-09-16T17:03:30.637758752+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"m1rxupy4"}}
+{"time":"2024-09-16T17:03:30.656379207+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-16T17:03:30.688756478+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-16T17:03:40.86547182+09:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}

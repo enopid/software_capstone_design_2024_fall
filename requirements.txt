@@ -1,0 +1,16 @@
+libigl
+matplotlib==3.4.3
+numpy==1.21.2
+potpourri3d
+robust_laplacian
+scikit_learn==1.5.2
+# dependency err
+scipy==1.6.2 
+torch==2.4.1
+torchmetrics
+tqdm
+trimesh
+torch_geometric
+#include
+tensorboard
+wandb
